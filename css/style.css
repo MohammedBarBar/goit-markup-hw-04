@@ -152,7 +152,7 @@ nav {
   /* background-color: var(--background-body); */
   padding: 200px 0;
   background-color: var(--background-hero-body);
-  background: url(../images/title-background.jpg);
+  background: url("../images/title-background.jpg");
   /* background-size: contain; */
   background-repeat: no-repeat;
   background-position: 50% 50%;
